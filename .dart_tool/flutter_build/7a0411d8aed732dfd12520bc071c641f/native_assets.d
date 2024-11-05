@@ -1,0 +1,1 @@
+ C:\\creative\ funn\ apps\ \ practice\\everyday\ task\\daily_tasks\\.dart_tool\\flutter_build\\7a0411d8aed732dfd12520bc071c641f\\native_assets.yaml: 

@@ -19,7 +19,7 @@ class CustomTextformfield extends StatelessWidget {
    required this.suffixicon,
    required this.suffix,
    required this.obscure,
-   required this.obscurechar,
+   required this.obscurechar,   
    required this.icon,
    required this.validator});
 
@@ -59,4 +59,11 @@ class custome_button extends StatelessWidget {
   Widget build(BuildContext context) {
     return ElevatedButton(onPressed: onpress,child:Text(text.toString()) ,);
   }
+
+
+ 
 }
+
+ Widget CustomButtonEx({String? text, Function()? onpress}){
+    return ElevatedButton(onPressed: onpress,child:Text(text.toString()) ,);
+  }
